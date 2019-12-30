@@ -1,3 +1,4 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello, Welcome to Salman's Jenkins !!! </h1>
 <h2> Deploying on Kubernetes </h2>
 <h3> One last test </h3>
+<h2> Deploying only updated code with CI </h2>
